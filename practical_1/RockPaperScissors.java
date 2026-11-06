@@ -103,7 +103,6 @@ public class RockPaperScissors {
         else {
             System.out.println("The game is a tie! " + playerScore + "–" + computerScore);
         }
-
         sc.close();
     }
 }
