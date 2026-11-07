@@ -1,0 +1,24 @@
+FOLDER TREE REPORT
+==================
+Scanned folder: E:\Btech_2ndYear\3rd_Sem\JAVA\Practicals\sample_tree
+
+File name     : notes.txt
+Relative path : Documents\notes.txt
+File size     : 23 bytes
+Modified time : 07-11-2026 22:09:56
+----------------------------------------
+File name     : java.txt
+Relative path : Documents\Projects\java.txt
+File size     : 32 bytes
+Modified time : 07-11-2026 22:09:56
+----------------------------------------
+File name     : image-info.txt
+Relative path : Images\image-info.txt
+File size     : 25 bytes
+Modified time : 07-11-2026 22:09:56
+----------------------------------------
+
+SUMMARY
+==================
+Total files      : 3
+Total size       : 80 bytes
