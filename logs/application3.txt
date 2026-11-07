@@ -1,0 +1,4 @@
+Backup started
+Backup completed
+WARNING: Low disk space
+ERROR: Backup verification failed
